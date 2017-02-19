@@ -1,0 +1,63 @@
+{
+ "sections": [
+  {
+   "id": "84c5d344-c862-0953-3446-508f624fbe7b",
+   "title": "Ethical Computing",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ethical-Computing-84c5.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "270b3b38-4825-7576-13b7-9f49c61c3e62",
+   "title": "Ethical Situations",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ethical-Situations-270b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "23568c90-66a4-3372-a228-8fbca942d0c1",
+   "title": "Ethical Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ethical-Quiz-2356.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1d1396da-4356-d810-85a1-9e7e7c4ce283",
+   "title": "Writing Prompt Scoring Guide",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Writing-Prompt-Scoring-Guide-1d13.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

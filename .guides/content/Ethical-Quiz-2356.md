@@ -1,0 +1,7 @@
+Write a short response to each of the following ethical questions.  In each, determine what is ethically right but also give examples of times where the ethics might not be so clear or situations where someone could feel justified in acting unethically.
+
+1) You are working on homework for school but at home your Internet access goes out.  You have a tool to "break" your neighbor's WIFI password and use that to get into their network where you compete your homework assignment before logging out of their network.
+
+2) You begin working for a company that makes an App that sends photos that "self-destruct" after a set amount of time.  While working on the software you find that the code is not actually deleted and the image files remain on both the phone of the company servers.  Do you let the users of this app know that the security they thought they had was actually false?
+
+3) Writing a paper for an English class, you search and find a previous student's essay online.  While you don't steal their paper directly, you do take several of the points they made and use some of their supporting arguments.  While not exactly plagiarism, reading this other paper changed the paper your wrote dramatically.
