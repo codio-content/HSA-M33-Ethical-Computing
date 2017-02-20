@@ -42,13 +42,8 @@
   {
    "id": "1d1396da-4356-d810-85a1-9e7e7c4ce283",
    "title": "Writing Prompt Scoring Guide",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel-tree",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Writing-Prompt-Scoring-Guide-1d13.md",
@@ -59,5 +54,6 @@
  ],
  "theme": "light",
  "scripts": [],
- "lexikonTopic": ""
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
 }
